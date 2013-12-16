@@ -1,0 +1,1 @@
+The code is base on [Unzipping Files with Android](http://www.jondev.net/articles/Unzipping_Files_with_Android_%28Programmatically%29). Fixed the performance and create sub directory.
