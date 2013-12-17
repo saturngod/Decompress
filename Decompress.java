@@ -1,5 +1,3 @@
-package com.comquas.nsmag.nsmagAPI;
-
 import android.util.Log;
 
 import java.io.BufferedOutputStream;
